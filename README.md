@@ -1,7 +1,5 @@
 # Tsunastorm - Portugal
 
-This is a code repository to support reproduction results from the publication "Sedimentary ancient DNA of marine organisms reveals the 1755 Lisbon tsunami and younger palaeostorm deposits in Martinhal, southern Portugal". 
-
-To download PR2 database necessary for taxonomy assignment use this link: https://github.com/pr2database/pr2database/releases 
+This is a code repository to reproduce the NMDS analysis from the publication "Evaluating sedimentary ancient DNA as a proxy for coastal marine inundation: evidence from the 1755 Lisbon tsunami and younger palaeostorm deposits at Martinhal, southern Portugal". 
 
 Sequencing data from Martinhal, Portugal are deposited in ENA under Bioproject: PRJEB74029
